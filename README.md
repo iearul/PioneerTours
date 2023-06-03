@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/iearul/PioneerTours">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="frontend/public/assets/logo.png" alt="Logo" width="171" height="52">
   </a>
 
   <h3 align="center">Pioneer Tours</h3>
@@ -37,6 +37,7 @@ Pioneer Tours is a ticket booking website built with Next.js that allows users t
 <!-- BUILT WITH -->
 ## Built With
 
+- [Laravel](https://laravel.com/)
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -71,6 +72,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Mohammed Iearulislam - [hello@iearul.xyz](mailto:hello@iearul.xyz)
+Iearul Abid - [hello@iearul.xyz](mailto:hello@iearul.xyz)
 
 Project Link: [https://github.com/iearul/PioneerTours](https://github.com/iearul/PioneerTours)
